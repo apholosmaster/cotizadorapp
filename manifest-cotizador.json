@@ -1,6 +1,6 @@
 {
-  "name": "Apholos Cotizador",
-  "short_name": "Cotizador",
+  "name": "Apholos Master Quote",
+  "short_name": "Master Quote",
   "start_url": "cotizador_v3_15.html",
   "display": "standalone",
   "background_color": "#000000",
